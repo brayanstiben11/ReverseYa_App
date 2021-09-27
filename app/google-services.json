@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778333770019",
+    "project_id": "reserveya-5d416",
+    "storage_bucket": "reserveya-5d416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778333770019:android:09ea03a76678fe65f53c96",
+        "android_client_info": {
+          "package_name": "com.example.reverseya_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778333770019-p5ljmq0suporlc9equq0pgjua7hs9ooe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaI2GqwTgEXh5TArHZIUSi6-m0TCJyuF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778333770019-p5ljmq0suporlc9equq0pgjua7hs9ooe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
